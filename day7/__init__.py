@@ -1,6 +1,5 @@
 import re
 from collections import Counter
-from functools import cmp_to_key
 
 # input = open('day7/sample.txt','r')
 input = open('day7/input.txt','r')
